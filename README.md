@@ -82,7 +82,7 @@ It will be deployed after merge
 ## 👥 Authors <a name="author"></a> 
 ## 👥 Author <a name="author"></a> 
 - Enobong Isong
-👤 **Author 1**
+
 - Abenezer Assefa (https://www.linkedin.com/in/abenezer-assefa-386b25193)
  
 👤 **Author 2**

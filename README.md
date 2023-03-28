@@ -39,7 +39,6 @@ Awesome Books Project is designed as part of Microverse coursework.
 ### Key Features <a name="key-features"></a>
 - The About page
 - The Home Page
-- 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,10 +82,10 @@ It will be deployed after merge
 ## 👥 Authors <a name="author"></a> 
 ## 👥 Author <a name="author"></a> 
 - Enobong Isong
+👤 **Author 1**
 - Abenezer Assefa (https://www.linkedin.com/in/abenezer-assefa-386b25193)
  
-👤 **Author**
-👤 **Author**
+👤 **Author 2**
 - GitHub: [@githubhandle](https://github.com/Enoisong)
 - Twitter: [@twitterhandle](https://twitter.com/Enobongmisong)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/enobong-isong/)

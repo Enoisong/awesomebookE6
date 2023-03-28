@@ -24,7 +24,7 @@
 <!-- PROJECT DESCRIPTION -->
 # 📖  A Project <a name="about-project"></a> 
  
-Capstone Project is a mobile website designed as part of Microverse coursework.
+Awesome Books Project is designed as part of Microverse coursework.
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
 - CSS
@@ -45,17 +45,17 @@ Capstone Project is a mobile website designed as part of Microverse coursework.
 
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
-https://www.loom.com/share/189d9a072c1a48509aa10e52405724bd
+https://enoisong.github.io/awesomebook/
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
-clone from repository: https://github.com/Enoisong/Capstone-Project.git
+clone from repository: https://github.com/Enoisong/awesome books.git
 ### Prerequisites
 In order to run this project you need to:
 Install Live server VScode extension and run Go Live
 ### Setup
 Clone this repository to your desired folder: 
-https://github.com/Enoisong/Capstone-Project.git
+ 
 
 ### Install
 Install this project with:
@@ -83,6 +83,7 @@ It will be deployed after merge
 ## 👥 Authors <a name="author"></a> 
 ## 👥 Author <a name="author"></a> 
 - Enobong Isong
+- Abenezer Assefa (https://www.linkedin.com/in/abenezer-assefa-386b25193)
  
 👤 **Author**
 👤 **Author**
@@ -90,12 +91,6 @@ It will be deployed after merge
 - Twitter: [@twitterhandle](https://twitter.com/Enobongmisong)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/enobong-isong/)
 
-
-## 🔭 Future Features <a name="future-features"></a>
--   Project Page
--   Service Page
--   Contact Page
-- 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -117,8 +112,6 @@ If you like this project, give me a star
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-The original design ideal by [Cindy Shin in Behance] (https://www.behance.net/adagio7.
--	 Project from [Microverse](https://www.microverse.org/) html & css modules.
 -	Thanks to the Microverse team for the great curriculum.
 -	Thanks to the Code Reviewer(s) for the insightly feedbacks.
 -	A great thanks to my coding partner(s), morning session team, and standup team for their contributions.
